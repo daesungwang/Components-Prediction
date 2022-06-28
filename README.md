@@ -22,9 +22,9 @@ This repository is for the research paper(Under review): Automatic Components Pr
 <img src = "https://user-images.githubusercontent.com/22803510/176155200-d681af29-be3d-40fb-ad44-0e2708a879da.png" width="80%">  
   
 ### Recall at k by Task 1-3
-<img src = "https://user-images.githubusercontent.com/22803510/176163908-23d93401-9a6a-4295-9706-277e41c6fa3f.png" width="80%">
-<img src = "https://user-images.githubusercontent.com/22803510/176163903-08ca6a2d-182c-40e1-88a2-eec9e46b56ad.png" width="80%">
-<img src = "https://user-images.githubusercontent.com/22803510/176163905-695809f1-45ff-46dc-a961-abc6b54c9123.png" width="80%">
+<img src = "https://user-images.githubusercontent.com/22803510/176165936-ac5dd574-a27c-44a8-81ed-846a80c81e7e.png" width="80%">
+<img src = "https://user-images.githubusercontent.com/22803510/176165929-40adddb1-7b8f-43d3-a106-c815f17dfabd.png" width="80%">
+<img src = "https://user-images.githubusercontent.com/22803510/176165933-ac2fc21f-3e02-46d4-89af-d9d7a5bcfbe4.png" width="80%">
 
 
 ## Reference
