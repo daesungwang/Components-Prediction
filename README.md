@@ -16,7 +16,7 @@ This repository is for the research paper(Under review): Automatic Components Pr
 | Eclipse Foundation |      21,644      |          41          |
 | Eclipse Platform   |      18,886      |          19          |
 ### Task based method evaluation
-<img src="https://github.com/daesungwang/Components-Prediction/blob/main/img/Firefox_all_graph.png?raw=true", width="500">
+<img src="https://user-images.githubusercontent.com/22803510/176155200-d681af29-be3d-40fb-ad44-0e2708a879da.png", width="500">
 
 ## Reference
 - Bugzilla_Firefox: https://bugzilla.mozilla.org
