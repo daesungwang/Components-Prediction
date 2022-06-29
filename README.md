@@ -19,7 +19,7 @@ This repository is for the research paper(Under review): Automatic Components Pr
 
 ## Task based method evaluation Result
 ### Validation loss
-<img src = "https://user-images.githubusercontent.com/22803510/176155200-d681af29-be3d-40fb-ad44-0e2708a879da.png" width="80%">  
+<img src = "https://user-images.githubusercontent.com/22803510/176393856-9a878abe-6d38-426f-9f7e-fb02e730d68b.png" width="80%">  
   
 ### Recall at k by Task 1-3
 <img src = "https://user-images.githubusercontent.com/22803510/176165936-ac5dd574-a27c-44a8-81ed-846a80c81e7e.png" width="80%">
