@@ -1,8 +1,7 @@
 # Component-Prediction
 
 ## Introduction
-This repository is for the research paper(Under review): Automatic Components Prediction for Issue Reports by using Fine-tuned Pre-trained Language Models.
-
+This repository is for the research paper(Under review): Automatic Component Prediction for Issue Reports Using Fine-tuned Pretrained Language Models.
 ## Gathering option
 | Repository         |      Product     |          Option          |
 |:-------------------|:----------------:|:------------------------:|
