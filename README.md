@@ -1,7 +1,20 @@
 # Component-Prediction
 
 ## Introduction
-This repository is for the research paper(Under review): Automatic Component Prediction for Issue Reports Using Fine-tuned Pretrained Language Models.
+This repository is for the research paper: Automatic Component Prediction for Issue Reports Using Fine-tuned Pretrained Language Models
+
+For details, please read our [paper](https://ieeexplore.ieee.org/abstract/document/9987507).
+
+### Citing
+```bibtex
+@article{wang2022automatic,
+  title={Automatic Component Prediction for Issue Reports Using Fine-tuned Pretrained Language Models},
+  author={Wang, Dae-Sung and Lee, Chan-Gun},
+  journal={IEEE Access},
+  year={2022},
+  publisher={IEEE}
+}
+```
 ## Gathering option
 | Repository         |      Product     |          Option          |
 |:-------------------|:----------------:|:------------------------:|
