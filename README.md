@@ -7,17 +7,15 @@ For details, please read our [paper](https://ieeexplore.ieee.org/abstract/docume
 
 ### Citing
 ```bibtex
-@article{wang2022automatic,
-  @ARTICLE{9987507,  
-  author={Wang, Dae-Sung and Lee, Chan-Gun},  
-  journal={IEEE Access},   
-  title={Automatic Component Prediction for Issue Reports Using Fine-Tuned Pretrained Language Models},   
-  year={2022},  
-  volume={10},  
-  number={},  
-  pages={131456-131468},  
-  doi={10.1109/ACCESS.2022.3229426}}
-}
+@ARTICLE{9987507,  
+author={Wang, Dae-Sung and Lee, Chan-Gun},
+journal={IEEE Access},
+title={Automatic Component Prediction for Issue Reports Using Fine-Tuned Pretrained Language Models},
+year={2022},
+volume={10},
+number={},
+pages={131456-131468},
+doi={10.1109/ACCESS.2022.3229426}}
 ```
 ## Gathering option
 | Repository         |      Product     |          Option          |
